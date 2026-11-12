@@ -1,5 +1,5 @@
 {
   "Version": "3.1.0.0",
-  "UpdateUrl": "https://github.com/你的GitHub用户名/你的仓库名/releases/download/v3.1/Setup.exe",
+  "UpdateUrl": "https://github.com/hudgju/-/releases/download/update-file/mysetup.exe",
   "UpdateLog": "1. 全新悬浮球功能上线！\n2. 修复了 Gitee 下载 403 的恶心 Bug。"
 }
